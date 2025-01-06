@@ -22,7 +22,7 @@ public class Main {
             e.printStackTrace();
             JOptionPane.showMessageDialog(null, "Datenbankverbindung fehlgeschlagen.");
             return; 
-        }//Met
+        }
         DBManager dbManager = new DBManager(connection);
         
         Login loginFrame = new Login();
