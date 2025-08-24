@@ -42,7 +42,7 @@ Das System ermöglicht:
 **MySQL für die Datenbank**
 **JDBC für die Datenbankverbindung**
 
-## Screenshots
+## 📸 Screenshots
 
 <img width="1302" height="1032" alt="image" src="https://github.com/user-attachments/assets/2015ce49-a319-492d-86f3-a904cdc7e662" />
 <img width="1625" height="1047" alt="image" src="https://github.com/user-attachments/assets/fa6f3626-6ee6-42b2-ad5b-ef5cf7f2638f" />
@@ -63,5 +63,7 @@ Das System ermöglicht:
 
 
 ## 📜 Lizenz
-Dieses Projekt wurde im Rahmen eines Studienprojekts entwickelt und ist nicht für den kommerziellen Gebrauch bestimmt
+
+Dieses Projekt wurde im Rahmen eines Studienprojekts entwickelt und ist
+**nicht für den kommerziellen Gebrauch** bestimmt. 
 
